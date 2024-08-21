@@ -35,71 +35,70 @@ anime_episode = [
         views: '131,541'
     }, {
         id: 3,
-        title: "Corpse Party Ep-1",
-        desc: "Corpse Party game concerns a group of Japanese high school students, celebrating their school's culture festival.",
-        img: "./img/corpse-1.jpg",
-        video: "./videos/Anime Episode/Corpse/Corpse Party Episode 1.mp4",
+        title: "Codebreaker Episode 1",
+        desc: "The episode follows Sakura Sakurakouji, a high school girl who lives a seemingly normal life until she witnesses something strange on a bus ride home. She sees a boy surrounded by blue flames, burning people alive without leaving a trace.",
+        img: "./img/Codebreaker.jpeg",
+        video: "./videos/Anime Episode/Codebreaker/Codebreaker Episode 1.mp4",
         cat: 'anime_episode',
         type: 'TV Series',
         studios: 'Lerche',
-        dateAired: 'July 24, 2013',
+        dateAired: ' October 7, 2012',
         status: 'Airing',
         genre: 'Action, Adventure, Fantasy, Magic',
         score: '7.31 / 1,515',
         rating: '8.5 / 161 times',
-        duration: '29 min/ 18 sec',
+        duration: '24 min/ 54 sec',
         quality: 'HD',
         views: '131,541'
     }, {
         id: 4,
-        title: "Corpse Party Ep-2",
-        cat: 'anime_episode',
-        desc: "Corpse Party game concerns a group of Japanese high school students, celebrating their school's culture festival.",
-        img: "./img/corpse-1.jpg",
-        video: "./videos/Anime Episode/Corpse/Corpse Party Episode 2.mp4",
+        title: "Codebreaker Episode 2",
+        desc: "In this episode, Sakura continues to struggle with the reality of what she witnessed and her moral objections to Rei Ogami's methods of dealing with criminals. Despite her protests, Rei is unyielding in his belief that evil must be eradicated, and he uses his blue flame powers to execute his form of justice.",
+        img: "./img/Codebreaker.jpeg",
+        video: "./videos/Anime Episode/Codebreaker/Codebreaker Episode 2.mp4",
         cat: 'anime_episode',
         type: 'TV Series',
         studios: 'Lerche',
-        dateAired: 'July 24, 2013',
+        dateAired: 'October 14, 2012',
         status: 'Airing',
         genre: 'Action, Adventure, Fantasy, Magic',
         score: '7.31 / 1,515',
         rating: '8.5 / 161 times',
-        duration: '28 min/ 45 sec',
+        duration: '24 min/ 49 sec',
         quality: 'HD',
         views: '131,541'
     }, {
         id: 5,
-        title: "Corpse Party Ep-3",
-        desc: "Corpse Party game concerns a group of Japanese high school students, celebrating their school's culture festival.",
-        img: "./img/corpse-1.jpg",
-        video: "./videos/Anime Episode/Corpse/Corpse Party Episode 3.mp4",
+        title: "Codebreaker Episode 3",
+        desc: "In this episode, Sakura continues to follow Rei Ogami, trying to understand his actions and motivations. Despite her efforts to stop him from killing, Rei remains committed to his mission to eliminate those he deems evil. ",
+        img: "./img/Codebreaker.jpeg",
+        video: "./videos/Anime Episode/Codebreaker/Code Breaker Episode 3.mp4",
         cat: 'anime_episode',
         type: 'TV Series',
         studios: 'Lerche',
-        dateAired: 'July 24, 2013',
+        dateAired: 'October 21, 2012',
         status: 'Airing',
         genre: 'Action, Adventure, Fantasy, Magic',
         score: '7.31 / 1,515',
         rating: '8.5 / 161 times',
-        duration: '29 min/ 09 sec',
+        duration: '24 min/ 34 sec',
         quality: 'HD',
         views: '131,541'
     }, {
         id: 6,
-        title: "Corpse Party Ep-4",
-        desc: "Corpse Party game concerns a group of Japanese high school students, celebrating their school's culture festival.",
-        img: "./img/corpse-1.jpg",
-        video: "./videos/Anime Episode/Corpse/Corpse Party Episode 4.mp4",
+        title: "Codebreaker Ep-4",
+        desc: "In this episode, Sakura continues to grapple with the brutal world of the Code. Tensions rise as Toki Fujiwara, the magnetic field-manipulating Code, becomes more involved, leading to clashes with Rei Ogami.",
+        img: "./img/Codebreaker.jpeg",
+        video: "./videos/Anime Episode/Codebreaker/code breaker episode 4.mp4",
         cat: 'anime_episode',
         type: 'TV Series',
         studios: 'Lerche',
-        dateAired: 'July 24, 2013',
+        dateAired: 'October 28, 2012',
         status: 'Airing',
         genre: 'Action, Adventure, Fantasy, Magic',
         score: '7.31 / 1,515',
         rating: '8.5 / 161 times',
-        duration: '29 min/ 09 sec',
+        duration: '24 min/ 33 sec',
         quality: 'HD',
         views: '131,541'
     }, {
@@ -667,6 +666,23 @@ anime_movies = [
         score: '7.31 / 1,515',
         rating: '8.5 / 161 times',
         duration: ' 45 min/ 21 sec',
+        quality: 'HD',
+        views: '131,541'
+    },{
+        id: 40,
+        title: "Baki Hanma",
+        desc: "In this season, Baki faces various powerful opponents, showcasing intense and brutal martial arts battles. The season focuses on Baki's preparation for his ultimate showdown with his father by taking on other formidable fighters. This includes a major battle with Biscuit Oliva, a character known for his immense strength.",
+        img: "./img/Baki.JPG",
+        video: "./videos/Anime Movie/Baki Hanma/Baki Hanma.mp4",
+        cat: 'anime_movies',
+        type: 'TV Series',
+        studios: 'Lerche',
+        dateAired: ' September 30, 2021',
+        status: 'Airing',
+        genre: 'Action, Adventure, Fantasy, Magic',
+        score: '7.31 / 1,515',
+        rating: '8.5 / 161 times',
+        duration: '4 hrs/ 07 min/ 24 sec',
         quality: 'HD',
         views: '131,541'
     }
@@ -2580,9 +2596,9 @@ ben_cartoon = [
     },
     {
         id: 149,
-        title: "Ben 10 S-1 EP-9",
+        title: "Kevin 11",
         desc: "In Kevin 11, the ninth episode of Ben 10, Ben Tennyson encounters a new and dangerous adversary: Kevin Levin, a young boy who has gained the ability to absorb and mimic the powers of other beings. ",
-        img: "./img/ben1.jpg",
+        img: "./img/ben-9.jpg",
         video: "./videos/Season 1/Ben 9.mp4",
         cat: 'benCartoon',
         type: 'TV Series',
@@ -2598,9 +2614,9 @@ ben_cartoon = [
     },
     {
         id: 150,
-        title: "Ben 10 S-1 EP-10",
-        desc: "In What Are Little Girls Made Of?, the tenth episode of Ben 10, the Tennyson family encounters a mysterious and high-tech villain named Mondo, who is targeting Gwen. ",
-        img: "./img/ben1.jpg",
+        title: "Lucky Girl",
+        desc: "In Lucky Girl, the tenth episode of Ben 10, Ben Tennyson, Gwen, and Grandpa Max encounter a new character, a young girl named Elena who has the ability to manipulate luck. Elena is an ordinary girl who discovers a mysterious talisman that grants her extraordinary luck, leading to a series of fortunate events for her and her family.",
+        img: "./img/ben10.jpg",
         video: "./videos/Season 1/Ben 10.mp4",
         cat: 'benCartoon',
         type: 'TV Series',
@@ -2615,9 +2631,9 @@ ben_cartoon = [
         views: '220,000'
     }, {
         id: 151,
-        title: "Ben 10 S-1 EP-11",
+        title: "The Big Tick",
         desc: "In The Big Tick, the eleventh episode of Ben 10, Ben, Gwen, and Grandpa Max face off against a monstrous alien insect known as the Big Tick. ",
-        img: "./img/ben1.jpg",
+        img: "./img/ben-11.jpg",
         video: "./videos/Season 1/Ben 11.mp4",
         cat: 'benCartoon',
         type: 'TV Series',
@@ -2633,9 +2649,9 @@ ben_cartoon = [
     },
     {
         id: 152,
-        title: "Ben 10 S-1 EP-12",
+        title: " Gwen 10",
         desc: "In Gwen 10, the twelfth episode of Ben 10, Gwen Tennyson experiences an alternate reality where she becomes the hero with the Omnitrix instead of Ben. The episode begins with Gwen and Ben arguing over who gets to use the Omnitrix, leading to a magical mishap that transports them to a parallel universe.",
-        img: "./img/ben1.jpg",
+        img: "./img/ben-12.jpg",
         video: "./videos/Season 1/Ben 12.mp4",
         cat: 'benCartoon',
         type: 'TV Series',
@@ -2653,7 +2669,7 @@ ben_cartoon = [
         id: 153,
         title: "Ben 10 S-1 EP-13",
         desc: "In Secrets, the thirteenth episode of Ben 10, the Tennyson family faces the consequences of a secret that has been hidden for a long time. The episode delves into the backstory of Grandpa Max and his past dealings with alien technology and beings.",
-        img: "./img/ben1.jpg",
+        img: "./img/ben13.jpg",
         video: "./videos/Season 1/Ben 13.mp4",
         cat: 'benCartoon',
         type: 'TV Series',
@@ -2692,7 +2708,7 @@ ben_cartoon2 = [
     },
     {
         id: 155,
-        title: "Ben 10 S-2 EP-2",
+        title: "Ben 10,000",
         desc: "The episode begins with Ben, Gwen, and Grandpa Max arriving at a local arcade, where they discover that the arcade’s machines have been hacked and are causing real-life chaos. ",
         img: "./img/bs2.jpg",
         video: "./videos/Season 2/Ben 2.mp4",
@@ -2710,9 +2726,9 @@ ben_cartoon2 = [
     },
     {
         id: 156,
-        title: "Ben 10 S-2 EP-3",
+        title: "Ben 10 Framed",
         desc: "In Framed, the third episode of Season 2 of Ben 10, Ben Tennyson finds himself wrongly accused of a crime he didn't commit. The episode begins with Ben, Gwen, and Grandpa Max arriving in a new town where they are excited to explore and relax.",
-        img: "./img/ben2.jpg",
+        img: "./img/bs3.jpeg",
         video: "./videos/Season 2/Ben 3.mp4",
         cat: 'benCartoon',
         type: 'TV Series',
@@ -2728,9 +2744,9 @@ ben_cartoon2 = [
     },
     {
         id: 157,
-        title: "Ben 10 S-2 EP-4",
+        title: "Ben 10 Dupe",
         desc: "In Dupe, the fourth episode of Season 2 of Ben 10, Ben Tennyson faces a new threat involving a villain with the power to create duplicates. The episode begins with Ben, Gwen, and Grandpa Max encountering a powerful alien named Duplicitous, who has the ability to create exact copies of himself and others.",
-        img: "./img/ben2.jpg",
+        img: "./img/bs4.jpg",
         video: "./videos/Season 2/Ben 4.mp4",
         cat: 'benCartoon',
         type: 'TV Series',
@@ -2746,9 +2762,9 @@ ben_cartoon2 = [
     },
     {
         id: 158,
-        title: "Ben 10 S-2 EP-5",
+        title: "Camp Fear",
         desc: "The fifth episode of Season 2 of Ben 10, Ben Tennyson encounters a version of himself from the future. The episode begins with Ben, Gwen, and Grandpa Max visiting a futuristic city where they discover that the future version of Ben, known as Ben 10,000, has become a legendary hero.",
-        img: "./img/ben2.jpg",
+        img: "./img/bs5.jpg",
         video: "./videos/Season 2/Ben 5.mp4",
         cat: 'benCartoon',
         type: 'TV Series',
@@ -2764,9 +2780,9 @@ ben_cartoon2 = [
     },
     {
         id: 159,
-        title: "Ben 10 S-2 EP-6",
+        title: "Max Out",
         desc: "In Max Out, the sixth episode of Season 2 of Ben 10, Grandpa Max becomes the focus as he faces a significant challenge. The episode begins with the Tennyson family stopping by a high-tech research facility where Grandpa Max used to work.",
-        img: "./img/ben2.jpg",
+        img: "./img/bs6.webp",
         video: "./videos/Season 2/Ben 6.mp4",
         cat: 'benCartoon',
         type: 'TV Series',
@@ -2782,9 +2798,9 @@ ben_cartoon2 = [
     },
     {
         id: 160,
-        title: "Ben 10 S-2 EP-7",
+        title: "Galactic Enforcers",
         desc: "In The Galactic Enforcers, the seventh episode of Season 2 of Ben 10, Ben Tennyson and his family encounter a team of intergalactic heroes known as the Galactic Enforcers. The episode begins with the arrival of these space-faring heroes on Earth, who are on a mission to apprehend a dangerous alien criminal.",
-        img: "./img/ben2.jpg",
+        img: "./img/bs7.jpg",
         video: "./videos/Season 2/Ben 7.mp4",
         cat: 'benCartoon',
         type: 'TV Series',
@@ -2800,9 +2816,9 @@ ben_cartoon2 = [
     },
     {
         id: 161,
-        title: "Ben 10 S-2 EP-8",
+        title: "Gwen 10",
         desc: "In Gwen 10, the eighth episode of Season 2 of Ben 10, the focus shifts to Gwen Tennyson as she takes on a major role in an alternate reality. The episode begins with a magical mishap that transports Gwen and Ben to a parallel universe where Gwen becomes the primary hero instead of Ben.",
-        img: "./img/ben2.jpg",
+        img: "./img/ben-12.jpg",
         video: "./videos/Season 2/Ben 8.mp4",
         cat: 'benCartoon',
         type: 'TV Series',
@@ -2818,9 +2834,9 @@ ben_cartoon2 = [
     },
     {
         id: 162,
-        title: "Ben 10 S-2 EP-9",
+        title: "Ben 10 vs. Negative 10",
         desc: "In Ben 10 vs. Negative 10, the ninth episode of Season 2 of Ben 10, Ben Tennyson faces off against a new and formidable adversary known as the Negative 10, a group of ten powerful villains who have come together to challenge Ben.",
-        img: "./img/ben2.jpg",
+        img: "./img/bs9.jpg",
         video: "./videos/Season 2/Ben 9.mp4",
         cat: 'benCartoon',
         type: 'TV Series',
@@ -2836,9 +2852,9 @@ ben_cartoon2 = [
     },
     {
         id: 163,
-        title: "Ben 10 S-2 EP-10",
+        title: "The Return",
         desc: "In The Return, the tenth episode of Season 2 of Ben 10, the storyline revisits an earlier villain, Dr. Animo, who makes a comeback with a new plan to unleash chaos. The episode begins with Ben, Gwen, and Grandpa Max encountering signs of Dr. Animo’s activity as they travel through a remote area.",
-        img: "./img/ben2.jpg",
+        img: "./img/bs10.jpg",
         video: "./videos/Season 2/Ben 10.mp4",
         cat: 'benCartoon',
         type: 'TV Series',
@@ -2854,9 +2870,9 @@ ben_cartoon2 = [
     },
     {
         id: 164,
-        title: "Ben 10 S-2 EP-11",
+        title: "Be-Knighted",
         desc: "In Be-Knighted, the eleventh episode of Season 2 of Ben 10, Ben Tennyson encounters a medieval-themed villain and faces a unique challenge involving an ancient artifact. The episode begins with the Tennyson family visiting a historical reenactment fair that features medieval knights and castle-themed attractions.",
-        img: "./img/ben2.jpg",
+        img: "./img/bs11.jpg",
         video: "./videos/Season 2/Ben 11.mp4",
         cat: 'benCartoon',
         type: 'TV Series',
@@ -2872,9 +2888,9 @@ ben_cartoon2 = [
     },
     {
         id: 165,
-        title: "Ben 10 S-2 EP-12",
+        title: "The Beast",
         desc: "In The Beast, the twelfth episode of Season 2 of Ben 10, Ben Tennyson encounters a formidable new adversary known as the Beast. The episode begins with the Tennyson family exploring a remote area where they hear reports of a mysterious creature terrorizing local wildlife and threatening the environment.",
-        img: "./img/ben2.jpg",
+        img: "./img/bs12.jpg",
         video: "./videos/Season 2/Ben 12.mp4",
         cat: 'benCartoon',
         type: 'TV Series',
@@ -2890,9 +2906,9 @@ ben_cartoon2 = [
     },
     {
         id: 166,
-        title: "Ben 10 S-2 EP-13",
+        title: "The Ultimate Weapon",
         desc: "In The Ultimate Weapon, the thirteenth and final episode of Season 2 of Ben 10, Ben Tennyson faces one of his most dangerous threats yet. The episode begins with the Tennyson family discovering that a powerful and destructive weapon has fallen into the hands of an evil alien warlord.",
-        img: "./img/ben2.jpg",
+        img: "./img/bs13.jpg",
         video: "./videos/Season 2/Ben 13.mp4",
         cat: 'benCartoon',
         type: 'TV Series',
@@ -2907,7 +2923,6 @@ ben_cartoon2 = [
         views: '131,541'
     }
 ]
-    ;
 
 
 reviews = [
@@ -2915,60 +2930,70 @@ reviews = [
         "id": 1,
         "name": "Ahmed Khan",
         "review": "Attack on Titan is a masterpiece! The storyline and character development are exceptional.",
-        "time": "2 Hour ago"
+        "time": "2 Hour ago",
+        "img": "./img/anime/review-2.jpg",
     },
     {
         "id": 2,
         "name": "Sara Malik",
         "review": "Naruto has been my favorite since childhood. The lessons of perseverance are inspiring.",
-        "time": "2024-08-21T11:15:00Z"
+        "time": "4 Hour ago",
+        "img": "./img/anime/review-1.jpg",
     },
     {
         "id": 3,
         "name": "Fahad Sheikh",
         "review": "One Piece is amazing, but it's so long! Still, the adventure is worth it.",
-        "time": "2024-08-21T12:00:00Z"
+        "time": "5 Hour ago",
+        "img": "./img/anime/review-4.jpg",
     },
     {
         "id": 4,
         "name": "Ayesha Bibi",
         "review": "Dragon Ball Z was the best part of my childhood. Goku is a true hero!",
-        "time": "2024-08-21T12:45:00Z"
+        "time": "7 Hour ago",
+        "img": "./img/anime/review-3.jpg",
     },
     {
         "id": 5,
         "name": "Bilal Ahmed",
         "review": "I recently started watching Death Note, and it's mind-blowing! The plot twists are incredible.",
-        "time": "2024-08-21T13:30:00Z"
+        "time": "10 Hour ago",
+        "img": "./img/anime/review-5.jpg",
     },
     {
         "id": 6,
         "name": "Hira Aslam",
         "review": "My Neighbor Totoro is a beautiful and heartwarming film. A must-watch for all ages.",
-        "time": "2024-08-21T14:15:00Z"
+        "time": "11 Hour ago",
+        "img": "./img/anime/review-6.jpg",
     },
     {
         "id": 7,
         "name": "Usman Tariq",
         "review": "Bleach has some of the best fight scenes in anime. The character designs are epic.",
-        "time": "2024-08-21T15:00:00Z"
+        "time": "12 Hour ago",
+        "img": "./img/anime/review-4.jpg",
     },
     {
         "id": 8,
         "name": "Nida Ali",
         "review": "Spirited Away is magical! The animation is stunning and the story is enchanting.",
-        "time": "2024-08-21T15:45:00Z"
+        "time": "14 Hour ago",
+        "img": "./img/anime/review-6.jpg",
     },
     {
         "id": 9,
         "name": "Ali Raza",
         "review": "Hunter x Hunter has the best world-building in any anime I've seen. The arcs are well-crafted.",
-        "time": "2024-08-21T16:30:00Z"
+        "time": "16 Hour ago",
+        "img": "./img/anime/review-2.jpg",
     },
     {
         "id": 10,
         "name": "Maha Noor",
         "review": "Tom and Jerry never gets old! The humor is timeless and perfect for all ages.",
-        "time": "2024-08-21T17:15:00Z"
+        "time": "18  Hour ago",
+        "img": "./img/anime/review-3.jpg",
     }
-]
+];

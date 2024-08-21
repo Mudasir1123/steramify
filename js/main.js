@@ -138,7 +138,7 @@ anime_movies.slice(0, 9).forEach(movies => {
     <a href="./anime-details.html?moviesId=${movies.id}">
         <div class="product__item">
             <div class="product__item__pic set-bg" style="background-image: url(${movies.img});">
-                <div class="ep">${movies.id} / 39</div> <!-- You can customize this part -->
+                <div class="ep">${movies.id} / 40</div> <!-- You can customize this part -->
                 <div class="comment"><i class="fa fa-comments"></i> 11</div>
                 <div class="view"><i class="fa fa-eye"></i> 9141</div>
             </div>
