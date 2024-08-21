@@ -308,7 +308,6 @@
         else {
             animeDetails = null
             var mylink = null;
-
         }
 
         if (urlParams.get('motuId')) {
@@ -408,7 +407,7 @@
             const reviewItem = `
 <div class="anime__review__item">
                     <div class="anime__review__item__pic">
-                        <img src="img/anime/review-1.jpg" alt="">
+                      <img src="${rev.img}">
                     </div>
                     <div class="anime__review__item__text">
                         <h6>${rev.name} - <span>${rev.time}</span></h6>
